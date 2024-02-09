@@ -2,11 +2,12 @@
 
 👋 Seja bem-vinda(o)!
 
-É muito bom tê-la(o) aqui. Tenho certeza que você vai adorar este curso. ❤️
+Esse repositório mostra tudo que aprendi e desenvolvi durante o Curso Intermediário de Cypress
 
-## O que você vai aprender
+Link do repositório do  curso: https://github.com/wlsf82/cypress-intermediario-v2
 
-Durante o curso de testes automatizados com Cypress (intermediário) você vai aprender:
+## O que aprendi
+
 
 - Como configurar o ambiente local de desenvolvimento
 - Como instalar e configurar o Cypress
@@ -24,10 +25,6 @@ Durante o curso de testes automatizados com Cypress (intermediário) você vai a
 - Como habilitar funcionalidades experimentais do Cypress
 - Como executar comandos à nível de sistema operacional
 - E como testar a leitura de arquivos
-
-## Vamos começar?
-
-Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
 
 ___
 
